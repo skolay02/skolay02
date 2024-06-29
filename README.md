@@ -35,7 +35,15 @@
 
 <!-- HTML -->
 <a href="https://www.w3schools.com/html/" target="  " rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="android" height="40"/></a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="html" height="40"/></a> 
+
+<!-- CSS -->
+<a href="[https://www.w3schools.com/html/](https://developer.mozilla.org/en-US/docs/Web/CSS)" target="  " rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40"/></a> 
+
+<!-- JavaScript -->
+<a href="[https://www.w3schools.com/html/](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="  " rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" height="40"/></a> 
 
 <!-- Arduino -->
 <a href="https://www.arduino.cc/" target="  " rel="noreferrer"> 
