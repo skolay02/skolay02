@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skolay02&label=Profile%20views&color=0e75b6&style=flat" alt="skolay02" /> </p>
 
-- 🌱 I’m currently learning **Electronics & Communication Engineering, Full stack web development, Android development and other coding tools**
+- 🌱 I’m currently learning **Electronics & Communication Engineering, Web development, Android development and other coding tools**
 
 - ⚡ Fun fact **Got a treasurer's chest, full of humours!😜**
 
@@ -60,6 +60,11 @@
 <!-- Python -->
 <a href="https://www.python.org" target="  " rel="noreferrer"> 
 <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="python" height="40"/></a> 
+</p>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/free/?gclid=Cj0KCQjwzva1BhD3ARIsADQuPnVjATic6W7CX8RBChoNz11782SZ1osO2laBSEb-e-BCQXCTZAMr8r8aAvaPEALw_wcB&trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=Cj0KCQjwzva1BhD3ARIsADQuPnVjATic6W7CX8RBChoNz11782SZ1osO2laBSEb-e-BCQXCTZAMr8r8aAvaPEALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="  " rel="noreferrer"> 
+<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="aws" height="25" width="42"/></a> 
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skolay02&show_icons=true&locale=en" alt="skolay02" /></p>
