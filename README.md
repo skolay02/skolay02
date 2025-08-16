@@ -59,7 +59,7 @@
 
 <!-- Python -->
 <a href="https://www.python.org" target="  " rel="noreferrer"> 
-<img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="python" height="40"/></a> 
+<img src="[https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjunilearning.com%2Fblog%2Fguide%2Fwhat-is-python-101-for-students%2F&psig=AOvVaw1ytLHXgz-9cX2tIhemnvgd&ust=1755424635045000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDr98GIj48DFQAAAAAdAAAAABAE)" alt="python" height="40"/></a> 
 </p>
 
 <!-- AWS -->
